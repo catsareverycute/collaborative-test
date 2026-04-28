@@ -14,3 +14,7 @@ struct File: View {
         .padding()
     }
 }
+
+#Preview {
+    File()
+}
