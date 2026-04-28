@@ -10,7 +10,7 @@ struct File: View {
             Text("hi")
             Text("Github")
             Text("Commit")
-            Text("Hello again")
+            Text("new")
         }
         .padding()
     }
